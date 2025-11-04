@@ -82,6 +82,8 @@ Want me to start with tasks, your schedule, or a quick wellness tip today?
 
 # OUTPUT:              
 https://ticko-your-daily-wingman.lovable.app
+
+
 <img width="1919" height="909" alt="Screenshot 2025-11-03 191117" src="https://github.com/user-attachments/assets/064db30c-9bdb-4bb3-8810-306e911ce7bd" />
 <img width="1919" height="903" alt="Screenshot 2025-11-03 191224" src="https://github.com/user-attachments/assets/02eda484-c789-4656-bc5c-11517d0f935f" />
 
